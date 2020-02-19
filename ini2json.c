@@ -1,11 +1,16 @@
+/************************
+ * ini2json
+ * by Keuin
+ * 2020-02-19 version 1.0
+************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 
 #define LINE_MAX 1024
-
-
 
 int main()
 {
